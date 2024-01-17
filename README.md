@@ -6,6 +6,7 @@ The V0.2 is a stunning machine but it does look a bit top heavey.
 This new Phat Plinth should address that making the whole printer look more even and solid.
 
 CAD is availible for this model in both .F3d and .STEP
+
 .3MF files are availible if you just want to downloadand print the parts.
 
 ![Screenshot (127)](https://github.com/Driftrotor/Voron-Phat-Plinth/assets/94327757/631da1a4-26e4-4670-ac7a-78461abd0acf)
